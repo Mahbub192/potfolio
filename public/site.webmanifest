@@ -1,0 +1,24 @@
+{
+  "name": "Mahbub Ali — Portfolio",
+  "short_name": "Mahbub Ali",
+  "description": "Software Engineer & Full-Stack Developer — React, React Native, Angular, Node.js",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f7f6",
+  "theme_color": "#0f766e",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/og-image.jpg",
+      "sizes": "600x600",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}

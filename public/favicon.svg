@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mahbub Ali">
+  <rect width="64" height="64" rx="14" fill="#12201d"/>
+  <path d="M16 44V20h5.4l10.6 15.2L42.6 20H48v24h-5.2V29.6L33.4 43h-2.8L21.2 29.8V44z" fill="#f3f7f6"/>
+  <rect x="16" y="48" width="32" height="3" rx="1.5" fill="#0f766e"/>
+</svg>
