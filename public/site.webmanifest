@@ -10,13 +10,13 @@
   "lang": "en",
   "icons": [
     {
-      "src": "./favicon.svg",
+      "src": "favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
     },
     {
-      "src": "./og-image.jpg",
+      "src": "og-image.jpg",
       "sizes": "600x600",
       "type": "image/jpeg",
       "purpose": "any"
