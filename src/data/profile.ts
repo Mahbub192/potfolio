@@ -38,7 +38,7 @@ export const links = {
 };
 
 /** Public site origin used for SEO meta tags once deployed. */
-export const siteUrl = "https://mahbubali.dev";
+export const siteUrl = "https://mahbub192.github.io/potfolio";
 
 /** Filename used by the Download/Resume links. */
 export const resumeFileName = "Mahbub_Ali_Resume.pdf";

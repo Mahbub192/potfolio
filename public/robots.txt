@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mahbubali.dev/sitemap.xml
+Sitemap: https://mahbub192.github.io/potfolio/sitemap.xml
