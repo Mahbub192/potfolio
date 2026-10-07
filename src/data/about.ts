@@ -33,8 +33,8 @@ export const about = {
   ],
   facts: [
     { label: "Role", value: "Software Engineer · Full-Stack" },
-    { label: "Primary stack", value: "React · React Native · Angular" },
-    { label: "Backend", value: "Node.js · .NET Web API · MySQL" },
+    { label: "Primary stack", value: "React · Next.js · React Native · Angular" },
+    { label: "Backend", value: "Node.js · Nest.js · .NET Web API · MySQL" },
     { label: "Domains", value: "Healthcare · Education · Business" },
     { label: "Based in", value: "Dhaka, Bangladesh" },
   ] satisfies Fact[],

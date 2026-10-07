@@ -25,6 +25,7 @@ export const skillGroups: SkillGroup[] = [
     icon: Layout,
     skills: [
       "React.js",
+      "Next.js",
       "Angular",
       "JavaScript",
       "TypeScript",
@@ -38,13 +39,13 @@ export const skillGroups: SkillGroup[] = [
     id: "backend",
     title: "Backend",
     icon: Server,
-    skills: ["Node.js", "Express.js", ".NET Web API", "REST APIs"],
+    skills: ["Node.js", "Nest.js", "Express.js", ".NET Web API", "REST APIs"],
   },
   {
     id: "database",
     title: "Database",
     icon: Database,
-    skills: ["MySQL", "MongoDB", "Firebase"],
+    skills: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
   },
   {
     id: "mobile",
