@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahbub192.github.io/potfolio/sitemap.xml
