@@ -31,7 +31,7 @@ export function HireCTA() {
                 <p className="mt-4 max-w-xl text-[15px] leading-relaxed text-muted-foreground sm:text-[16px]">
                   {profile.name} builds production web and mobile products — healthcare,
                   education, e-commerce, business tools and other custom software with React,
-                  React Native, Angular, TypeScript, Node.js, Express.js, .NET Web API, REST
+                  React Native, Angular, TypeScript, Node.js, Nest.js, Express.js, REST
                   APIs, MySQL, MongoDB, Firebase and Expo. Open to full-time and remote roles.
                 </p>
 

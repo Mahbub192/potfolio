@@ -19,7 +19,7 @@ export const profile = {
   supporting:
     "I ship web and mobile apps across React, React Native, Angular and Node.js — from patient-facing products to hospital and operations tools.",
   availability: "Open to full-time · on-site or remote",
-  heroStack: ["React.js", "React Native", "Angular", "Node.js", ".NET Web API"],
+  heroStack: ["React.js", "React Native", "Angular", "Node.js", "Nest.js"],
 };
 
 /**
@@ -46,7 +46,7 @@ export const resumeFileName = "Mahbub_Ali_Resume.pdf";
 export const meta = {
   title: "Mahbub Ali | Software Engineer | Full-Stack Developer",
   description:
-    "Hire Mahbub Ali — Software Engineer shipping healthcare, education and business apps with React.js, React Native, Angular, Node.js and .NET Web API. Based in Dhaka, open to remote roles.",
+    "Hire Mahbub Ali — Software Engineer shipping healthcare, education and business apps with React.js, React Native, Angular, Node.js and Nest.js. Based in Dhaka, open to remote roles.",
 };
 
 export function whatsappChatUrl(message?: string) {

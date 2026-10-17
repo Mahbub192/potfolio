@@ -36,7 +36,7 @@ export const services: Service[] = [
   {
     id: "api",
     title: "Backend & API Integration",
-    text: "Working with Node.js, Express.js, .NET Web API and REST APIs.",
+    text: "Working with Node.js, Nest.js, Express.js and REST APIs.",
     icon: Plug,
   },
   {

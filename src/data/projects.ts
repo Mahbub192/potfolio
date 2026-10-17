@@ -146,11 +146,11 @@ export const projects: Project[] = [
     contribution: [
       "Built Angular + PrimeNG screens for clinical modules",
       "Created reusable form and table components",
-      "Integrated .NET Web API endpoints with MySQL-backed data",
+      "Integrated REST API endpoints with MySQL-backed data",
       "Improved routing, forms and state across modules",
       "Resolved production bugs reported by hospital users",
     ],
-    tech: ["Angular", "TypeScript", "PrimeNG", ".NET Web API", "MySQL"],
+    tech: ["Angular", "TypeScript", "PrimeNG", "REST API", "MySQL"],
     links: [
       {
         label: "Live Demo",

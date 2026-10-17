@@ -35,7 +35,7 @@ export const experience: ExperienceItem[] = [
     responsibilities: [
       "Developed responsive Angular interfaces for clinical and administrative workflows",
       "Built reusable components to keep UI consistent across modules",
-      "Integrated REST APIs for .NET Web API services and MySQL-backed data",
+      "Integrated REST APIs with MySQL-backed data",
       "Shipped React Native features for patient-facing healthcare apps",
       "Implemented forms, routing and state management across applications",
       "Fixed bugs and improved functionality reported by users and QA",
@@ -47,7 +47,6 @@ export const experience: ExperienceItem[] = [
       "TypeScript",
       "PrimeNG",
       "REST API",
-      ".NET Web API",
       "MySQL",
       "Firebase",
       "Azure DevOps",
